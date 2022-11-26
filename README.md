@@ -1,2 +1,1 @@
-# ca-todo-app
-Todo App with Clean Architecture
+# Todo App with Clean Architecture
